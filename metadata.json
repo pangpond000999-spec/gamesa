@@ -1,0 +1,5 @@
+{
+  "name": "Logic Pac-Maze",
+  "description": "A Pac-Man style maze game where you solve Mathematical Logic questions to open gates. Answer correctly to survive and advance!",
+  "requestFramePermissions": []
+}
