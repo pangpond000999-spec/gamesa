@@ -1,0 +1,5 @@
+{
+  "name": "Logic Labyrinth: The Truth Seeker",
+  "description": "A maze game that teaches mathematical logic (ตรรกศาสตร์). Navigate the labyrinth by solving truth tables and logical connectives to unlock gates.",
+  "requestFramePermissions": []
+}
